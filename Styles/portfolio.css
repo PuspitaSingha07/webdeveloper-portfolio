@@ -142,3 +142,32 @@ nav a{
     font-weight: 700;
 
  }
+ .resume-container {
+    display: flex;
+    gap: 60px;
+ }
+ 
+ .resume-item-description , .resume-item-institute {
+    color:  #757575;
+ }
+ 
+ .resume-item-title{
+    color: #474747;
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 10px;
+
+ }
+
+.resume-item-institution {
+
+    margin-bottom: 20px;
+}
+
+.button {
+    text-align: center;
+    margin-top: 50px;
+ 
+
+
+}
